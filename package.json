@@ -4,6 +4,7 @@
   "description": "profile created using react",
   "main": "index.js",
   "scripts": {
+    "start"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,15 +24,9 @@
   },
   "homepage": "https://github.com/Chickendish/NovReactProfile#readme",
   "dependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^6.2.0",
-    "babel-preset-env": "^1.6.1",
-    "babel-preset-es2015": "^6.3.13",
-    "babel-preset-react": "^6.3.13",
-    "webpack": "^1.15.0"
+    
   }
 }
